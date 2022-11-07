@@ -12,7 +12,7 @@ Berikut hasil dari Encryption seperti diatas yang sudah saya lakukan.
 
 Berikut hasil dari Decryption seperti diatas yang sudah saya lakukan.
 
-![img](img/3.png)
+![foto](foto/2.png)
 
 
 
