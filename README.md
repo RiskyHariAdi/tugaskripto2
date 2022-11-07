@@ -14,5 +14,5 @@ Berikut hasil dari Decryption seperti diatas yang sudah saya lakukan.
 
 ![img](img/3.png)
 
-# THANK'S FOR YOUR ATTENTION!! SEE YOU!!
+
 
