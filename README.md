@@ -8,7 +8,7 @@
 ![foto](foto/1.png)
 Berikut hasil dari Encryption seperti diatas yang sudah saya lakukan.
 
-![img](img/2.png)
+![foto](foto/11.png)
 
 Berikut hasil dari Decryption seperti diatas yang sudah saya lakukan.
 
