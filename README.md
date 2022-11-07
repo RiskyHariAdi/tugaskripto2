@@ -1,4 +1,4 @@
-# tugaskripto2
+# TUGAS KRIPTO
 # PERTEMUAN 7
 # NAMA: RISKY HARIADI
 # KELAS: TI. 20. A. 1
