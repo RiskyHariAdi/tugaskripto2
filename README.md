@@ -14,5 +14,8 @@ Berikut hasil dari Decryption seperti diatas yang sudah saya lakukan.
 
 ![foto](foto/2.png)
 
+## *LINK TUGAS LATIHAN PERTEMUAN 6*
+https://github.com/RiskyHariAdi/tugaskripto5
+
 
 
